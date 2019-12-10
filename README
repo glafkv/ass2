@@ -1,0 +1,25 @@
+By: Gabi Appel
+Date: 12/9/19
+Redo Project 2:
+
+How to run:
+	
+	to compile: 	
+	make
+	
+	to run(with default settings):
+	./logParse
+		
+	to open help menu:
+	./logParse -h
+	
+	to set an input file:
+	./logParse -i <inputfile>
+	
+	to set an output file:
+	./logParse -o <outputfile>
+	
+	to erase executables and output file:
+	make clean
+
+
