@@ -1,7 +1,5 @@
-404: 4 + 2 + 1 = 7
-405: 5 + 4 = 9
-406: No subset of numbers summed to 34.
-407: No subset of numbers summed to 34.
-408: No subset of numbers summed to 34.
-Parent PID: 403
-All children: 404 405 406 407 408 
+1086: 3 + 4 + 2 = 9
+1087: 3 + 2 + 1 = 6
+1088: No subset of numbers summed to 256.
+Parent PID: 1085
+All children: 1086 1087 1088 

@@ -227,6 +227,9 @@ int main(int argc, char *argv[])
 			strcat(endString, pidString);
 		}
 	}
+	
+	//inform user where the data is
+	printf("That was a success. Go check out %s\n", output);
 	//print all the children and the parent
 	fprintf(outfile, "Parent PID: %d\n", getpid());
 	fprintf(outfile, "All children: %s\n", endString);
